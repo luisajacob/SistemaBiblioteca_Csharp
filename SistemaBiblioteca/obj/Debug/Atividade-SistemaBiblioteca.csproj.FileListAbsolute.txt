@@ -1,0 +1,8 @@
+Z:\EC2\ALG2\Atividade-SistemaBiblioteca\Atividade-SistemaBiblioteca\bin\Debug\Atividade-SistemaBiblioteca.exe.config
+Z:\EC2\ALG2\Atividade-SistemaBiblioteca\Atividade-SistemaBiblioteca\bin\Debug\Atividade-SistemaBiblioteca.exe
+Z:\EC2\ALG2\Atividade-SistemaBiblioteca\Atividade-SistemaBiblioteca\bin\Debug\Atividade-SistemaBiblioteca.pdb
+Z:\EC2\ALG2\Atividade-SistemaBiblioteca\Atividade-SistemaBiblioteca\obj\Debug\Atividade-SistemaBiblioteca.csproj.AssemblyReference.cache
+Z:\EC2\ALG2\Atividade-SistemaBiblioteca\Atividade-SistemaBiblioteca\obj\Debug\Atividade-SistemaBiblioteca.csproj.CoreCompileInputs.cache
+Z:\EC2\ALG2\Atividade-SistemaBiblioteca\Atividade-SistemaBiblioteca\obj\Debug\Atividade-SistemaBiblioteca.exe
+Z:\EC2\ALG2\Atividade-SistemaBiblioteca\Atividade-SistemaBiblioteca\obj\Debug\Atividade-SistemaBiblioteca.pdb
+Z:\EC2\ALG2\Atividade-SistemaBiblioteca\Atividade-SistemaBiblioteca\obj\Debug\Atividade-SistemaBiblioteca.csproj.SuggestedBindingRedirects.cache
